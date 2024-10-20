@@ -1,0 +1,29 @@
+{
+    "urls": [
+	{
+            "url": "http://tvbox4.mfyz.tech/sub/0",
+            "name": "岸边雅筑🏖__"
+        },
+      {
+           "url": "http://xhztv.top/xhz",
+           "name": "小盒子"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "米饭香"
+        },    
+      
+        {
+           "url": "http://pandown.pro/tvbox/tvbox.json",
+           "name": "盘古大阵"
+        },
+      {   
+             "url": "http://home.jundie.top:81/top98.json",
+            "name": "四维空间"
+        },
+      {   
+             "url": "",
+            "name": ""
+        }
+    ]
+}
